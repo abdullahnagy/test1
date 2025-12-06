@@ -19,7 +19,7 @@ static const String routename="registerScreen";
         Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text("name",),
+            Text("nameeeeeeeeeeeee",),
             TextFormField(),
 ElevatedButton(onPressed: (){
   Navigator.push(context, MaterialPageRoute(builder: (context) => Scaffold(body: Text("hiiiiiiiii"),),));
